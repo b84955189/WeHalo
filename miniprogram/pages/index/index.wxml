@@ -185,12 +185,12 @@
                     </navigator>
                 </view>
             </block>
-            <view class="cu-item arrow">
+            <!-- <view class="cu-item arrow">
                 <navigator class="content" hover-class="none" url="../wehalo/wehalo" open-type="navigate" bindtap="shutDownDrawer">
                     <text class="cuIcon-formfill text-lightBlue menu-img"></text>
                     <text class="text-grey">WeHalo</text>
                 </navigator>
-            </view>
+            </view> -->
             <view class="cu-item">
                 <view class="content">
                     <text class="cuIcon-skinfill text-gray menu-img"></text>

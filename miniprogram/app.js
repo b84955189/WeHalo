@@ -6,7 +6,8 @@ App({
         }
         else {
             wx.cloud.init({
-                env: 'xlr-0053be',
+                // env: 'xlr-0053be',
+                env: 'cloud1-9guedw9rdf88995f',
                 traceUser: true,
             })
         }
@@ -76,13 +77,13 @@ App({
         userInfo: null,
         skin: null,
         roleFlag: false,
-        url: "xxx",//http://localhost:8090
-        BlogName: "xxx",
-        token: "xxx",
+        url: "https://blog.lking.icu",//http://localhost:8090
+        BlogName: "Jason's Blog",
+        token: "Eu84rv5Lwq4zbg4",
         highlightStyle: "dracula", //代码高亮样式，可用值default,darcula,dracula,tomorrow
-        adminOpenid: "xxx",
-        HaloUser: "xxx",
-        HaloPassword: "xxxxx"
+        adminOpenid: "og9bj4oHTo-8ecIRUM3KnTTKhQd8",//管理员用户的openid
+        HaloUser: "b84955189",
+        HaloPassword: "Hh123321.."
     }
     
 })

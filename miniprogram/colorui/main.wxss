@@ -4066,8 +4066,9 @@ scroll-view.cu-steps .cu-item {
 
 .home-img{
     padding: 24rpx;
-    background-repeat: no-repeat;
+	background-repeat: no-repeat;
+	border-radius: 50%;
     background-size: contain;
     /* background-image:url(../image/cat.png); */
-    background-image:url('xxxxx');
+    background-image:url('https://storage.lking.icu/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200203153135_1635416181918.jpg');
 }
